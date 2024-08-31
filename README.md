@@ -43,22 +43,27 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
-:pushpin: Desenvolvimento de um datalogger para uma estação meteorológica
-:pushpin: Montagem de uma estação meteorológica
-:pushpin: Cadastro das estações, parâmetros, alertas e usuários
-:pushpin: Recepção dos dados das estações meteorológicas
-:pushpin: Dashboards para visualização dos parâmetros meteorológicos
-:pushpin: Geração de alertas
-:pushpin: Tutorial para os alunos do significado de cada parâmetro meteorológico
+:pushpin: Desenvolvimento de um datalogger para uma estação meteorológica   
+:pushpin: Montagem de uma estação meteorológica     
+:pushpin: Cadastro das estações, parâmetros, alertas e usuários     
+:pushpin: Recepção dos dados das estações meteorológicas    
+:pushpin: Dashboards para visualização dos parâmetros meteorológicos    
+:pushpin: Geração de alertas    
+:pushpin: Tutorial para os alunos do significado de cada parâmetro meteorológico    
+:pushpin: Existência de um datalogger funcional     
+:pushpin: Existência de um serviço de recepção de dados     
+:pushpin: Controle de acesso (perfil administrador, perfil visualizador, perfil público)    
+:pushpin: Estatísticas aplicadas aos dashboards     
+:pushpin: Mínimo de 3 Relatórios    
 
 → [Voltar ao topo](#topo)
 
 ## :clipboard: Requisitos NÃO Funcionais
-:pushpin: Prezar pelo UX dos dashboards
-:pushpin: Instigar nos alunos de ensino médio o gosto pelo estudo através da aprendizagem baseada em problemas
-:pushpin: Documentações de rotas das APIs
-:pushpin: Pipeline de IC
-:pushpin: Deploy automático
+:pushpin: Prezar pelo UX dos dashboards     
+:pushpin: Aplicar a aprendizagem baseada em problemas  
+:pushpin: Documentações de rotas das APIs   
+:pushpin: Pipeline de IC    
+:pushpin: Deploy automático     
 
 → [Voltar ao topo](#topo)
 
