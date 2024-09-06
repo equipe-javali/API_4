@@ -29,7 +29,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <span id='relatorios'>
 
-## :pushpin: Relatórios
+## :pushpin: Relatórios pro sprint
 Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando em "Ver entrega". 
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
@@ -65,19 +65,18 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 :pushpin: Pipeline de IC    
 :pushpin: Deploy automático     
 
-→ [Voltar ao topo](#topo)
+##  Épicos
 
-<span id='sprints'>
-<h2>Backlog das sprints</h2>
+![Epics](https://github.com/user-attachments/assets/f986c341-68d3-41a3-8ea9-2910a1850b91)
 
-| Sprint |  Backlog da sprint   |
-|:------:|:----------:|
-<!-- | 01     | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-1?tab=readme-ov-file#backlog) | 
-| 02     | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-2?tab=readme-ov-file#backlog) | 
-| 03     | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-3?tab=readme-ov-file#backlog) | 
-| 04     | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-4?tab=readme-ov-file#backlog) |  -->
+## Backlog total
+
+![Backlog (1)](https://github.com/user-attachments/assets/d7674e42-b66d-4d9f-a300-f99b4cc3d77d)
+![Backlog (2)](https://github.com/user-attachments/assets/2a496729-353a-47b0-bb0d-6b657bc273c7)
 
 → [Voltar ao topo](#topo)
+
+
 
 <span id='tecnologias'>
 
