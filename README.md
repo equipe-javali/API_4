@@ -33,10 +33,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando em "Ver entrega". 
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
-| 01     | 29/09/2024 | :construction: Em Andamento | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-1) |
-| 02     | 20/10/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-2) |
-| 03     | 10/11/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-3) |
-| 04     | 01/12/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/Sprint-4) |
+| 01     | 29/09/2024 | :construction: Em Andamento | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint1) |
+| 02     | 20/10/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint2) |
+| 03     | 10/11/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint3) |
+| 04     | 01/12/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint4) |
 
 → [Voltar ao topo](#topo)
 
@@ -67,7 +67,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 ##  Épicos
 
-![Epics](https://github.com/user-attachments/assets/f986c341-68d3-41a3-8ea9-2910a1850b91)
+![Epics](https://github.com/user-attachments/assets/782d2656-6c56-4e8f-ba07-746c86d5b3f1)
+
 
 ## Backlog total
 
