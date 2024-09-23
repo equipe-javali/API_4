@@ -28,16 +28,17 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <span id='backlog'>
 
-## :clipboard: Épicos     
+## :clipboard: Épicos
+
+![Requisitos](docs/requisitos.png)
 :pushpin: RF-3 Cadastro das estações, parâmetros, alertas e usuários     
 :pushpin: RF-4 Recepção dos dados das estações meteorológicas
 
 ## Sprint Backlog
 
-![SprintBacklog1](https://github.com/user-attachments/assets/a68e3fca-eaa7-4aea-9b60-ad81668fff4d)
+![Backlog](docs/backlog.png)
 
 → [Voltar ao topo](#topo)
-
 
 <span id='dor'>
 
