@@ -62,5 +62,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## MVP da Sprint
 
+![](/doc/MVP.gif)
 
 → [Voltar ao topo](#topo)
