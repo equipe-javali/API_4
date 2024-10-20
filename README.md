@@ -34,8 +34,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
 | 01     | 29/09/2024 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint1) |
-| 02     | 20/10/2024 | :construction: Em Andamento | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint2) |
-| 03     | 10/11/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint3) |
+| 02     | 20/10/2024 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint2) |
+| 03     | 10/11/2024 | :construction: Em Andamento | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint3) |
 | 04     | 01/12/2024 | Não iniciada | [Clique aqui](https://github.com/equipe-javali/API_4/tree/sprint4) |
 
 → [Voltar ao topo](#topo)
