@@ -43,19 +43,19 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
-📌 Desenvolvimento de um datalogger para uma estação meteorológica: Como cliente, quero criar um sistema para registrar dados do clima, para que eu possa armazenar e consultar as informações meteorológicas registradas pelas estações.
+📌 RF-1 Desenvolvimento de um datalogger para uma estação meteorológica: Como cliente, quero criar um sistema para registrar dados do clima, para que eu possa armazenar e consultar as informações meteorológicas registradas pelas estações.
 
-📌 Montagem de uma estação meteorológica: Como cliente, quero montar uma estação meteorológica para que ela possa medir dados como temperatura, umidade e outras informações climáticas importantes.
+📌 RF-2 Montagem de uma estação meteorológica: Como cliente, quero montar uma estação meteorológica para que ela possa medir dados como temperatura, umidade e outras informações climáticas importantes.
 
-📌 Cadastro das estações, parâmetros, alertas e usuários: Como administrador, quero cadastrar estações e suas informações, para que eu possa gerenciar cada estação, o que ela mede, e definir alertas e usuários responsáveis.
+📌 RF-3 Cadastro das estações, parâmetros, alertas e usuários: Como administrador, quero cadastrar estações e suas informações, para que eu possa gerenciar cada estação, o que ela mede, e definir alertas e usuários responsáveis.
 
-📌 Recepção dos dados das estações meteorológicas: Como cliente, quero que o sistema receba automaticamente os dados das estações, para que eu tenha acesso aos dados mais recentes e possa acompanhar o clima em tempo real.
+📌 RF-4 Recepção dos dados das estações meteorológicas: Como cliente, quero que o sistema receba automaticamente os dados das estações, para que eu tenha acesso aos dados mais recentes e possa acompanhar o clima em tempo real.
 
-📌 Dashboards para visualização dos parâmetros meteorológicos: Como cliente, quero visualizar os dados meteorológicos em painéis, para que eu possa ver de maneira organizada as informações de cada estação e monitorar os parâmetros meteorológicos.
+📌 RF-5 Dashboards para visualização dos parâmetros meteorológicos: Como cliente, quero visualizar os dados meteorológicos em painéis, para que eu possa ver de maneira organizada as informações de cada estação e monitorar os parâmetros meteorológicos.
 
-📌 Geração de alertas: Como cliente, quero que o sistema gere alertas automáticos para que eu seja avisado de mudanças climáticas importantes, como temperaturas extremas ou previsões de chuva intensa.
+📌 RF-6 Geração de alertas: Como cliente, quero que o sistema gere alertas automáticos para que eu seja avisado de mudanças climáticas importantes, como temperaturas extremas ou previsões de chuva intensa.
 
-📌 Tutorial para os alunos do significado de cada parâmetro meteorológico: Como cliente, quero que seja possível que alunos, que não terão login ao sistema, possam ter acesso aos dados das estações e a um tutorial sobre esse dados para que possam entender o que cada parâmetro significa e interpretar melhor as informações do clima.
+📌 RF-7 Tutorial para os alunos do significado de cada parâmetro meteorológico: Como cliente, quero que seja possível que alunos, que não terão login ao sistema, possam ter acesso aos dados das estações e a um tutorial sobre esse dados para que possam entender o que cada parâmetro significa e interpretar melhor as informações do clima.
 
 → [Voltar ao topo](#topo)
 
