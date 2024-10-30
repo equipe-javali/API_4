@@ -50,11 +50,6 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 :pushpin: Dashboards para visualização dos parâmetros meteorológicos    
 :pushpin: Geração de alertas    
 :pushpin: Tutorial para os alunos do significado de cada parâmetro meteorológico    
-:pushpin: Existência de um datalogger funcional     
-:pushpin: Existência de um serviço de recepção de dados     
-:pushpin: Controle de acesso (perfil administrador, perfil visualizador, perfil público)    
-:pushpin: Estatísticas aplicadas aos dashboards     
-:pushpin: Mínimo de 3 Relatórios    
 
 → [Voltar ao topo](#topo)
 
