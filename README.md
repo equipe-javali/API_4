@@ -43,13 +43,19 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
-:pushpin: Desenvolvimento de um datalogger para uma estação meteorológica   
-:pushpin: Montagem de uma estação meteorológica     
-:pushpin: Cadastro das estações, parâmetros, alertas e usuários     
-:pushpin: Recepção dos dados das estações meteorológicas    
-:pushpin: Dashboards para visualização dos parâmetros meteorológicos    
-:pushpin: Geração de alertas    
-:pushpin: Tutorial para os alunos do significado de cada parâmetro meteorológico    
+📌 Desenvolvimento de um datalogger para uma estação meteorológica: Como cliente, quero criar um sistema para registrar dados do clima
+Para que eu possa armazenar e consultar as informações meteorológicas registradas pelas estações.
+📌 Montagem de uma estação meteorológica: Como cliente, quero montar uma estação meteorológica
+Para que ela possa medir dados como temperatura, umidade e outras informações climáticas importantes.
+📌 Cadastro das estações, parâmetros, alertas e usuários: Como administrador, quero cadastrar estações e suas informações
+Para que eu possa gerenciar cada estação, o que ela mede, e definir alertas e usuários responsáveis.
+📌 Recepção dos dados das estações meteorológicas: Como cliente, quero que o sistema receba automaticamente os dados das estações
+Para que eu tenha acesso aos dados mais recentes e possa acompanhar o clima em tempo real.
+📌 Dashboards para visualização dos parâmetros meteorológicos: Como cliente, quero visualizar os dados meteorológicos em painéis
+Para que eu possa ver de maneira organizada as informações de cada estação e monitorar os parâmetros meteorológicos.
+📌 Geração de alertas: Como cliente, quero que o sistema gere alertas automáticos
+Para que eu seja avisado de mudanças climáticas importantes, como temperaturas extremas ou previsões de chuva intensa.
+📌 Tutorial para os alunos do significado de cada parâmetro meteorológico: Como cliente, quero que seja possível que alunos, que não terão login ao sistema, possam ter acesso aos dados das estações e a um tutorial sobre esse dados para que possam entender o que cada parâmetro significa e interpretar melhor as informações do clima.
 
 → [Voltar ao topo](#topo)
 
