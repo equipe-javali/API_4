@@ -55,7 +55,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 📌 RF-6 Geração de alertas: Como cliente, quero que o sistema gere alertas automáticos para que eu seja avisado de mudanças climáticas importantes, como temperaturas extremas ou previsões de chuva intensa.
 
-📌 RF-7 Tutorial para os alunos do significado de cada parâmetro meteorológico: Como cliente, quero que seja possível que alunos, que não terão login ao sistema, possam ter acesso aos dados das estações e a um tutorial sobre esse dados para que possam entender o que cada parâmetro significa e interpretar melhor as informações do clima.
+📌 RF-7 Tutorial para os alunos do significado de cada parâmetro meteorológico: Como cliente, quero que seja possível que alunos possam ter acesso aos dados das estações e a um tutorial sobre esse dados para que possam entender o que cada parâmetro significa e interpretar melhor as informações do clima.
 
 → [Voltar ao topo](#topo)
 
