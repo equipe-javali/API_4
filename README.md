@@ -45,7 +45,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 ## :clipboard: Requisitos Funcionais
 📌 RF-1 Desenvolvimento de um datalogger para uma estação meteorológica: Como cliente, quero criar um sistema para registrar dados do clima, para que eu possa armazenar e consultar as informações meteorológicas registradas pelas estações.
 
-📌 RF-2 Montagem de uma estação meteorológica: Como cliente, quero montar uma estação meteorológica para que ela possa medir dados como temperatura, umidade e outras informações climáticas importantes.
+📌 RF-2 Integração com a estação: Como cliente, quero fazer a integração da estação meteorológica com o sistema para que seja possível receber e analisar os dados como temperatura, umidade e outras informações climáticas importantes.
 
 📌 RF-3 Cadastro das estações, parâmetros, alertas e usuários: Como administrador, quero cadastrar estações e suas informações, para que eu possa gerenciar cada estação, o que ela mede, e definir alertas e usuários responsáveis.
 
