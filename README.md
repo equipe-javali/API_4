@@ -35,7 +35,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## Sprint Backlog
 
-![backlogSprint2](https://github.com/user-attachments/assets/efa1e76b-3ef6-46a6-998c-5c5b90663da7)
+![backlogSprint2](/docs/US.png)
 
 
 → [Voltar ao topo](#topo)
@@ -62,6 +62,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## MVP da Sprint
 
-![](/doc/MVP.gif)
+![](/docs/MVP.gif)
 
 → [Voltar ao topo](#topo)
