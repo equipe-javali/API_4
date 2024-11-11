@@ -58,6 +58,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 → [Voltar ao topo](#topo)
 
+## Burndown da Sprint
+<img width="774" alt="{9F67591C-B1ED-4963-A0EC-8C275B2B5CA9}" src="https://github.com/user-attachments/assets/6b07014e-614f-483b-9f79-404779907569">
+
+
 <span id="mvp">
 
 ## MVP da Sprint
