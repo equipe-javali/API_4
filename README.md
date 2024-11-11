@@ -30,7 +30,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :clipboard: Épicos
 
-![epicosSprint2](https://github.com/user-attachments/assets/6a89069f-5839-4211-ab84-d930dac162d7)
+![epicosSprint2](/docs/Epicos.png)
 
 
 ## Sprint Backlog
