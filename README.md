@@ -63,6 +63,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <span id="mvp">
 
+## Burndow da Sprint
+<img width="775" alt="{0C6C879F-EB77-450B-B441-CE900E9B1D79}" src="https://github.com/user-attachments/assets/25f001b0-36ed-477b-8d65-349f724db42e">
+
+
 ## MVP da Sprint
 
 ![](/doc/MVP.gif)
