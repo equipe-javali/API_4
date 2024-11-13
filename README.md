@@ -42,7 +42,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
-📌 RF-1 Desenvolvimento de um datalogger para uma estação meteorológica: Como cliente, eu preciso de um dispositivo que possa registrar informações dos sensores instalados em uma estação meteorológica. Esse dispositivo deve ser capaz de coletar e armazenar corretamente os dados de temperatura, chuva e vento que os sensores captam. A ideia é garantir que esses dados fiquem salvos para serem acessados mais tarde e que tudo funcione sem problemas na captação e leitura desses dados.
+📌 RF-1 Datalogger da estação meteorológica: A funcionalidade garante que o datalogger que possa registrar informações dos sensores instalados em uma estação meteorológica. Esse dispositivo deve ser capaz de coletar e armazenar corretamente os dados de temperatura, chuva e vento que os sensores captam. A ideia é garantir que os dados, conforme FR-3, fiquem salvos para serem acessados mais tarde e que tudo funcione sem problemas na captação e leitura desses dados.
 
 📌 RF-2 Integração com a estação: A funcionalidade de integração com a estação meteorológica permite que as estações enviem automaticamente para o sistema informações captadas pelos sensores, como temperatura, vento e chuva. Essa integração facilita o acesso e a análise desses dados de maneira prática e centralizada, atendendo às necessidades de monitoramento do clima em tempo real para gerar alertas.
 
