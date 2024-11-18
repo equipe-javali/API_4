@@ -63,7 +63,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 :pushpin: Aplicar a aprendizagem baseada em problemas: Adotar uma abordagem mais prática, focada na resolução de problemas reais, para promover um aprendizado mais eficiente e relevante.
 
-:pushpin: Documentações de rotas das APIs: Mantenha uma documentação clara e acessível das rotas das APIs, facilitando a integração e o entendimento por parte dos desenvolvedores.
+:pushpin: Documentações de rotas das APIs: Manter uma documentação clara e acessível das rotas das APIs, facilitando a integração e o entendimento por parte dos desenvolvedores.
 
 :pushpin: Pipeline de IC: Configurar um pipeline que automatize testes e verificações, garantindo a qualidade e a confiabilidade do código a cada alteração.
 
