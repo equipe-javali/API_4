@@ -51,6 +51,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 📌 RF-4 Recepção dos dados das estações meteorológicas: A funcionalidade de recepção automática de dados garante que o sistema receba continuamente as informações das estações meteorológicas no banco de dados sendo devidamente armazenados e tratados conforme dados listados na RF-3. Isso possibilita o acesso a dados atualizados em tempo real, permitindo que o cliente acompanhe as condições climáticas através dos alertas gerados pelo sistema.
 
 📌 RF-5 Dashboards para visualização dos parâmetros meteorológicos: Os painéis devem exibir de forma clara e prática os dados. Neles, o cliente pode ver informações como alertas por estação, temperatura média por região, nível de chuva médio por período e nível de chuva médio por região.
+Link: https://github.com/search?q=repo%3Aequipe-javali%2FAPI_4_FRONT+RF-5&type=commits
 
 📌 RF-6 Geração de alertas: A geração de alertas automáticos no sistema permite que o cliente seja notificado sobre condições climáticas importantes, como temperaturas extremas, chuvas intensas e ventos fortes. Esse recurso possibilita ao cliente se preparar com antecedência para essas situações, promovendo segurança e eficiência no uso dos dados registrados e analisados pelo sistema.
 
