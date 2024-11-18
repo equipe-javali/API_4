@@ -59,11 +59,11 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 → [Voltar ao topo](#topo)
 
 ## :clipboard: Requisitos NÃO Funcionais
-:pushpin: Prezar pelo UX dos dashboards     
-:pushpin: Aplicar a aprendizagem baseada em problemas  
-:pushpin: Documentações de rotas das APIs   
-:pushpin: Pipeline de IC    
-:pushpin: Deploy automático     
+:pushpin: Prezar pelo UX dos dashboards: Garantir que os dashboards sejam intuitivos, fáceis de navegar e visualmente agradáveis, proporcionando uma experiência positiva para os usuários.
+:pushpin: Aplicar a aprendizagem baseada em problemas: Adotar uma abordagem mais prática, focada na resolução de problemas reais, para promover um aprendizado mais eficiente e relevante.  
+:pushpin: Documentações de rotas das APIs: Mantenha uma documentação clara e acessível das rotas das APIs, facilitando a integração e o entendimento por parte dos desenvolvedores.   
+:pushpin: Pipeline de IC: Configurar um pipeline que automatize testes e verificações, garantindo a qualidade e a confiabilidade do código a cada alteração.    
+:pushpin: Deploy automático: Automatizar o processo de publicação de atualizações, reduzindo o esforço manual e garantindo que o sistema esteja sempre atualizado rapidamente.     
 
 ##  Épicos
 
