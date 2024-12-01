@@ -30,12 +30,12 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :clipboard: Épicos
 
-![epicosSprint2](/docs/Epicos.png)
+![epicosSprint4](/docs/Epicos.png)
 
 
 ## Sprint Backlog
 
-![backlogSprint2](/docs/US.png)
+![backlogSprint4](/docs/US.png)
 
 
 → [Voltar ao topo](#topo)
@@ -57,6 +57,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 </p>
 
 → [Voltar ao topo](#topo)
+
+## Burndown da Sprint
+<img width="781" alt="burndown" src="docs/burndown.png">
+
 
 <span id="mvp">
 
