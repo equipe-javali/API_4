@@ -56,6 +56,7 @@ Link: https://github.com/search?q=repo%3Aequipe-javali%2FAPI_4_FRONT+RF-5&type=c
 📌 RF-6 Geração de alertas: A geração de alertas automáticos no sistema permite que o cliente seja notificado sobre condições climáticas importantes, como temperaturas extremas, chuvas intensas e ventos fortes. Esse recurso possibilita ao cliente se preparar com antecedência para essas situações, promovendo segurança e eficiência no uso dos dados registrados e analisados pelo sistema.
 
 📌 RF-7 Tutorial para os alunos do significado de cada parâmetro meteorológico: A funcionalidade tem como finalidade cumprir um papel social por parte da empresa, para que alunos possam aprender e entender o significado de cada parâmetro medido pelas estações bem como os cálculos utilizados no sistema para parametrizar os alertas. Esse tutorial ajuda os estudantes a interpretar corretamente os dados, contribuindo para seu aprendizado sobre o clima e fenômenos atmosféricos.
+Link busca por RF: https://github.com/search?q=repo%3Aequipe-javali%2FAPI_4_FRONT+RF-7&type=commits
 
 → [Voltar ao topo](#topo)
 
